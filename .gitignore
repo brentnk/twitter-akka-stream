@@ -1,0 +1,7 @@
+.idea/
+project/
+target/
+libexec/
+.sbtserver/
+bin/
+src/main/scala/application.conf
